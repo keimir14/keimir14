@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Keimir Asprilla.
+- 👋 Hi, I'm <strong>Keimir Asprilla</strong>.
 - 👀 I am interested in learning much more about programming languages.
 - 🌱 I am currently learning Javascript
 - 💞️ I am a Colombian enthusiast of programming, with a spirit of sharing knowledge and collaborating on computational projects.
 - 📫 How to contact me:
-- Facebook: [https://www.facebook.com/keiasprillamena](https://www.facebook.com/keiasprillamena/)
-- Instagram: [https://www.instagram.com/keimir_14](https://www.instagram.com/keimir_14/)
+- <strong>Facebook</strong>: [https://www.facebook.com/keiasprillamena](https://www.facebook.com/keiasprillamena/)
+- <strong>Instagram</strong>: [https://www.instagram.com/keimir_14](https://www.instagram.com/keimir_14/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=keimir14&color=2685BF)
 
